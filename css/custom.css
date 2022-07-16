@@ -1,12 +1,17 @@
 .bg-image {
-    background-image: url('../assets/POLITICAL\ BANNER.png');
-    height: 60vh;
-    background-size: cover;
+    background-image: url('../assets/BG1.png');
+    height: 70vh;
+    width: 100%;
+    background-size: contain;
     background-repeat: no-repeat;
+    justify-content: center;
+    top:0;
+    left: 50;
+    margin-right: 0;
 }
 
 body {
-    background-image: url('../assets/BG.jpg'); 
+    background-image: url('../assets/marble.jpg'); 
     background-repeat: no-repeat; 
     background-size: cover;
 }

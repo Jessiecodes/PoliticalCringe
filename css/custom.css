@@ -48,8 +48,11 @@ button {
     background: rgb(255,138,45);
     background: linear-gradient(90deg, rgba(255,138,45,1) 0%, rgba(255,208,8,1) 100%);
     border: None;
+    width: 200px;
+    border-radius: 10px;
     color: white;
 }
+
 button a {
     padding: 10px;
     color: White;
